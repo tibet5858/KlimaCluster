@@ -10,3 +10,4 @@ for x in range(0, 10000, 1):
 
 for elements in list:
     print(elements)
+    print(elements+1)
